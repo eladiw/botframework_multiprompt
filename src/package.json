@@ -1,6 +1,6 @@
 {
   "name": "botframework_multiprompt",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "This custom prompt allows the bot framework's user to enter text OR a single attachment dynamically with a single prompt.",
   "main": "index.js",
   "scripts": {
@@ -26,5 +26,6 @@
   "homepage": "https://github.com/eladiw/botframework_multiprompt#readme",
   "dependencies": {
     "botbuilder": "^3.9.1"
-  }
+  },
+  "readme": "../README.md"
 }
