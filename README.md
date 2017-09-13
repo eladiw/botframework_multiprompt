@@ -1,8 +1,8 @@
 # Botframework MultiPrompt
 
-The existing botframework prompts allow you to choose only a specific input type, whether its a text, attachment or anything else.
-To select a prompt dynamically you had to use 'choice prompt' prior to the actual desired prompt, which negatively affects the user experience.
-This custom prompt allows the user to enter text OR a single attachment dynamically.
+The existing node.js botframework [Prompt](https://docs.microsoft.com/en-us/bot-framework/nodejs/bot-builder-nodejs-dialog-prompt) class is only able to process one input type, whether its a text, attachment or anything else. Such functionality is limiting and requires users to make muliple linear requests to recieve the information they want using an image or text as input.
+
+This module provides a custom [Prompt](https://docs.microsoft.com/en-us/bot-framework/nodejs/bot-builder-nodejs-dialog-prompt)  implementation allows dynamic processing of either text or attachments with one unified query.
 
 ## Usage example
   ```
