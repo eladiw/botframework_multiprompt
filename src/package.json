@@ -18,7 +18,7 @@
     "text",
     "dynamic"
   ],
-  "author": "Elad Iwanir",
+  "author": "Elad Iwanir, Ari Bornstein",
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/eladiw/botframework_multiprompt/issues"
