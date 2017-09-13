@@ -1,0 +1,17 @@
+{
+  "name": "sample-botframework_multiprompt-bot",
+  "version": "0.0.1",
+  "description": "A sample bot to demonstrate the use of 'botframework_multiprompt'",
+  "main": "index.js",
+  "dependencies": {
+    "botbuilder": "^3.9.1",
+    "botbuilder-instrumentation": "^1.1.15",
+    "restify": "^5.2.0"
+  },
+  "devDependencies": {
+    "botframework_multiprompt": "^1.0.0"
+  },
+  "scripts": {
+    "start": "node app.js"
+  }
+}
