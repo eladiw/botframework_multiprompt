@@ -1,0 +1,30 @@
+{
+  "name": "botframework_multiprompt",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/eladiw/botframework_multiprompt.git"
+  },
+  "keywords": [
+    "bot",
+    "botframework",
+    "prompt",
+    "attachments",
+    "text",
+    "dynamic"
+  ],
+  "author": "Elad Iwanir",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/eladiw/botframework_multiprompt/issues"
+  },
+  "homepage": "https://github.com/eladiw/botframework_multiprompt#readme",
+  "dependencies": {
+    "botbuilder": "^3.9.1"
+  }
+}
