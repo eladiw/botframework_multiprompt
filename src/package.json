@@ -1,6 +1,6 @@
 {
   "name": "botframework_multiprompt",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "This custom prompt allows the bot framework's user to enter text OR a single attachment dynamically with a single prompt.",
   "main": "index.js",
   "scripts": {
